@@ -31,4 +31,4 @@ let myobj={
 myobj.myMethod= function(){
     console.log("function in object");
 };
-myobj.myMethod();
+myobj.myMethod(); 
