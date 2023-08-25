@@ -1,4 +1,4 @@
-// function add(num1, num2){
+clea// function add(num1, num2){
 //     var add = 0;
 //     add = num1 + num2;
 //     return add;
